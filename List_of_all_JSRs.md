@@ -153,5 +153,5 @@ JSR的全部列表
 |356|Java API for WebSocket|
     
 
->[原始地址 https://www.jcp.org/en/jsr/all](https://www.jcp.org/en/jsr/all)
->[wiki百科地址 https://en.wikipedia.org/wiki/Java_Community_Process](https://en.wikipedia.org/wiki/Java_Community_Process)
+> * [原始地址 https://www.jcp.org/en/jsr/all](https://www.jcp.org/en/jsr/all)
+> * [wiki百科地址 https://en.wikipedia.org/wiki/Java_Community_Process](https://en.wikipedia.org/wiki/Java_Community_Process)
