@@ -155,3 +155,5 @@ JSR的全部列表
 
 > * [原始地址 https://www.jcp.org/en/jsr/all](https://www.jcp.org/en/jsr/all)
 > * [wiki百科地址 https://en.wikipedia.org/wiki/Java_Community_Process](https://en.wikipedia.org/wiki/Java_Community_Process)
+> * 【此翻译是各位有志小伙伴利用业余时间自发组织建起的，欢迎更多的有志之士加入！】
+
